@@ -1,3 +1,3 @@
-# bilibilisnap
+# BiliRush
 
-> 全新一代bilibili抢票
+> 全新一代bilibili抢票🤗
